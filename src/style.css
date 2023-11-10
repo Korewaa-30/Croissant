@@ -1,0 +1,16 @@
+body {
+	background: bisque;
+	display: block;
+	margin: 20px auto;
+	padding: 10px;
+	text-align: center;
+}
+
+img {
+	border-radius: 10px;
+	width: 600px;
+}
+
+a {
+	margin-right: 10px;
+}
